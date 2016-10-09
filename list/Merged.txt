@@ -83,6 +83,7 @@
 		red
 		white
 		yellow
+			gold
 	[~Element]
 		air
 		ash
@@ -591,13 +592,10 @@
 	[~Effect]
 		bokeh
 		lens zoom
-		light trail
-		lightpainting
 		long exposure
 		panning
 		panorama
 		reflection
-		silhouette
 		star trail
 		vignette
 		vintage
@@ -607,14 +605,21 @@
 		full body
 		headshot
 		upper body
-	[~Orientation]
-		landscape
-		portrait
+	~Lighting
+		back light
+		light trail
+		lightpainting
+		side lighting
+		silhouette
+			shadow puppet
 	[~Setting]
 		exterior
 		in-car
 		interior
 		studio
+	~Tools
+		intervalometer
+		photoshop
 	[~Treatment]
 		black and white
 			{b&w}
@@ -644,6 +649,13 @@
 		street photography
 		urban photography
 		wildlife photography
+[~STYLE & MOOD]
+	anarchist
+	bitonio
+	joke
+	making of
+	nude
+	Viollet-le-Duc
 [~WHAT]
 	[~Animal]
 		amphibian
@@ -719,7 +731,8 @@
 			lizard
 			snake
 			turtle
-	[~Art]
+	[~Art & Craft]
+		body painting
 		mosaic
 		ornament
 		painting
@@ -935,6 +948,7 @@
 		hill
 		island
 		isthmus
+		landscape
 		levee
 			{dike}
 			{floodbank}
@@ -1527,8 +1541,12 @@
 		flower
 			rose
 		grass
+		lichen
+		moss
 		tree
+			tree stump
 		vegetable
+			gourd
 	[~Profession]
 		accountant
 		architect
@@ -1728,6 +1746,7 @@
 		capitol
 		casino
 		castle
+			machicoulis
 		cathedral
 		cemetery
 			{graveyard}
@@ -1816,6 +1835,7 @@
 		refinery
 		restaurant
 		retail store
+		roof
 		room
 			aerary
 			attic
@@ -1877,9 +1897,14 @@
 				{railway station}
 		university
 		villa
+		wall
 		warehouse
 		watchtower
 		workshop
+	[~Symbol & Shape]
+		cross
+		spike
+		square
 	[~Thoroughfare]
 		alley
 		avenue
@@ -2060,12 +2085,20 @@
 			{corrie loch}
 		waterfall
 		wave
+	Urban Culture
+		carvings
+		graffiti
 [~WHERE]
-	Country here
-		State here
-			City/Place Here
+	France
+		Ariege
+			Foix
+				Foix Castle
+			Mas d'Azil
+			Serres sur Arget
+		Toulouse
+			Carmes
 [~WHO]
 	[~Client]
 		Client Names here
 	[~People]
-		names here
+		Jordane
