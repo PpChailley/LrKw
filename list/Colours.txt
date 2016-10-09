@@ -1,5 +1,5 @@
-[~COLOUR-EXTENSIVE]
-	shade of blue
+[~COLOUR]
+	blue
 		air force blue
 		air superiority blue
 		alice blue
@@ -49,7 +49,7 @@
 		ultramarine
 		yale blue
 		zaffre
-	shade of brown
+	brown
 		auburn
 		beaver
 		beige
@@ -95,7 +95,7 @@
 		umber
 		wenge
 		wheat
-	shade of cyan
+	cyan
 		aqua
 		aquamarine
 		celeste
@@ -106,7 +106,7 @@
 		skobeloff
 		teal
 		turquoise
-	shade of gray
+	grey
 		ash gray
 		battleship gray
 		black
@@ -126,7 +126,7 @@
 		taupe gray
 		timberwolf
 		white
-	shade of green
+	green
 		apple green
 		asparagus
 		bright green
@@ -165,7 +165,7 @@
 		spring bud
 		spring green
 		yellow-green
-	shade of orange
+	orange
 		amber
 		atomic tangerine
 		bittersweet
@@ -201,7 +201,7 @@
 		tenne
 		tomato
 		vermilion
-	shade of pink
+	pink
 		amaranth
 		amaranth pink
 		brink pink
@@ -224,7 +224,7 @@
 		shocking pink
 		thulian pink
 		ultra pink
-	shade of red
+	red
 		cardinal
 		carmine
 		crimson
@@ -240,7 +240,7 @@
 		terra cotta
 		tuscan red
 		wine
-	shade of violet
+	violet
 		amethyst
 		byzantium
 		eggplant
@@ -260,7 +260,7 @@
 		violet
 		violet-blue
 		wisteria
-	shade of yellow
+	yellow
 		amber
 		apricot
 		buff
